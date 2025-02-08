@@ -1,3 +1,3 @@
 [submodule "server"]
 	path = server
-	url = https://github.com/naybyal/tomestax/server
+	url = https://github.com/naybyal/tomestax/
